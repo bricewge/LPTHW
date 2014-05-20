@@ -1,0 +1,3 @@
+* bricewge's [[http://learnpythonthehardway.org/book/][LPTHW]] notebook
+
+My notebook of Learn Python The Hard Way.
